@@ -1,6 +1,9 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This App is a Recipe searching App utilizing a recipe searcing API.
+Search is restricted to 10 searches per minute since its on free mode. Increasing API subscription will increase
+searches
 
 ## Available Scripts
 
